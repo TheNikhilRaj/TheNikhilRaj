@@ -1,4 +1,4 @@
-![logo](https://github.com/TheNikhilRaj/TheNikhilRaj/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/TheNikhilRaj/TheNikhilRaj/blob/main/Git%20Hub%20Banneer.png)
 <h1 align="center">Hi 👋, I'm Nikhil Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
