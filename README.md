@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Html,Css,Js**
 
-- 💬 Ask me about **Angular, React**
+- 💬 Ask me about **wEB DEVELOPMENT**
 
 - ⚡ Fun fact **I am Jolly**
 
