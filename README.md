@@ -1,8 +1,8 @@
-![logo](https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Nikhil Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9c8e2f4f44360608e1d760f72267f13e5200d2f09977d1ea3f4148c40de8960b/68747470733a2f2f632e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenikhilraj&label=Profile%20views&color=0e75b6&style=flat" alt="thenikhilraj" /> </p>
 
