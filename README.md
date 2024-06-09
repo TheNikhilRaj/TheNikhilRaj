@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenikhilraj&label=Profile%20views&color=0e75b6&style=flat" alt="thenikhilraj" /> </p>
 <h3>👨🏻‍💻  About Me</h3>
-<h4>💡   Hello everyone,I'm currently pursuing BTech CSE from NSIT. I enjoy collaborating with people on works of similar interest.</h4>
-<h4>🌱 I’m currently learning Html,Css,Js</h4>
-<h4>💬 Ask me about Web D.</h4>
-<h4>⚡ Open Source Contributor at GSSOC'24.</h4>
+<h5>💡   Hello everyone,I'm currently pursuing BTech CSE from NSIT. I enjoy collaborating with people on works of similar interest.</h5>
+<h5>⚡ Open Source Contributor at GSSOC'24.</h5>
+<h5>🌱 I’m currently learning Html,Css,Js</h5>
+<h5>💬 Ask me about Web D.</h5>
 <hr>
 
 <h3 align="left">📫 Connect with me:</h3>
