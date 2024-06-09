@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil Raj</h1>
+<h1>Hi 👋, I'm Nikhil Raj</h1>
 ![logo](https://github.com/TheNikhilRaj/TheNikhilRaj/blob/main/Git%20Hub%20Banneer.png)
 <h3 align="center">A passionate frontend developer from India</h3>
 
