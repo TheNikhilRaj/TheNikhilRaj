@@ -1,7 +1,15 @@
 <h2>Hello world, I'm Nikhil 👋</h2>
 <img align="center" alt="coding" width="auto" src="https://github.com/TheNikhilRaj/TheNikhilRaj/blob/main/Git%20Hub%20Banneer.png">
 <hr>
-
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /></a>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenikhilraj&label=Profile%20views&color=0e75b6&style=flat" alt="thenikhilraj" /> </p>
 <h3>👨🏻‍💻  About Me</h3>
 <h5>💡   Hello everyone,I'm currently pursuing BTech CSE from NSIT. I enjoy collaborating with people on works of similar interest.</h5>
