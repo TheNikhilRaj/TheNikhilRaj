@@ -1,5 +1,8 @@
-<h2>Hello world, I'm Nikhil 👋</h2>
-<img align="center" alt="coding" width="auto" src="https://github.com/TheNikhilRaj/TheNikhilRaj/blob/main/Git%20Hub%20Banneer.png">
+<h1 align="center"> 
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&random=false&width=280&lines=Hi+there+.+I'm+Nikhil+!+👋🏻)]
+
+<img align="center" src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 />  </h1>
 <hr>
 <!-- ## GSSOC(24) Badges 🍁
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
