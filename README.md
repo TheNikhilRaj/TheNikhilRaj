@@ -33,12 +33,10 @@
 ```json
 {
   "version-control": ["git", "github", "gitlab"],
-  "frontend": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "NextJs", "Astro", "Framer"],
-  "backend": ["C", "C++", "GoLang", "Rust", "Python", "NodeJS", "Flask"],
-  "devops": ["Docker"],
-  "database": ["PostgreSQL"],
-  "cloud": ["Azure", "GCP"],
-  "design-tools": ["Figma"]
+  "frontend": ["HTML", "CSS", "JavaScript", "React", "Framer"],
+  "backend": ["C", "C++", "Python", "NodeJS", "ExpressJs"],
+  "database": ["PostgreSQL, MySQL"],
+  "design-tools": ["Figma, Canva"]
 }
 ```
 
