@@ -30,8 +30,6 @@
 <a href="https://auth.geeksforgeeks.org/user/thenikhilraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thenikhilraj" height="30" width="40" /></a>
 </p>
 
-## 🚀 Tech Stack
-
 ```json
 {
   "version-control": ["git", "github", "gitlab"],
@@ -42,6 +40,7 @@
   "cloud": ["Azure", "GCP"],
   "design-tools": ["Figma"]
 }
+```
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thenikhilraj&show_icons=true&locale=en" alt="thenikhilraj" /></p>
 
