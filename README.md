@@ -37,7 +37,7 @@
 
 
 ### 📫 Connect with Me
-<p> <a href="https://twitter.com/justnikhilraj" target="blank"> 
+<p> <a href="https://twitter.com/thenikhilraj" target="blank"> 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justnikhilraj" height="30" width="40" /> </a>
 
 <a href="https://linkedin.com/in/thenikhilraj" target="blank"> 
