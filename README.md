@@ -29,9 +29,9 @@
   "version-control": ["git", "github", "gitlab"],
   "frontend": ["HTML5", "CSS3","Tailwind CSS", "JavaScript", "ReactJs", "Framer"],
   "backend": ["C", "C++", "Python", "NodeJS", "ExpressJs"],
-  "database": ["MySQL, MongoDB"],
-  "design-tools": ["Figma, Canva"]
-  "developer-tools": ["VS-Code, Postman, Vercel, Netlify"]
+  "database": ["MySQL", "MongoDB"],
+  "design-tools": ["Figma", "Canva"]
+  "developer-tools": ["VS-Code", "Postman", "Vercel", "Netlify"]
 }
 ```
 ---
