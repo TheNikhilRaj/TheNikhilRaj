@@ -14,8 +14,8 @@
 ### 👨🏻‍💻 About Me
 
 - 💡 I’m currently pursuing **B.Tech CSE from NSIT**
-- ⚡ Active Open Source Contributor at **GSSoC'24**
-- 🌱 Currently learning **HTML, CSS, JavaScript**
+- ⚡ Active Open Source Contributor at **Hacktoberfest'25**
+- 🌱 Currently learning **Backend**
 - 👯 I enjoy collaborating on **Web Development and Open Source**
 - 💬 Ask me about **Frontend Web Development**
 - 📫 Reach me at **thenikhilraj**
