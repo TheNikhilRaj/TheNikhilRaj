@@ -56,7 +56,7 @@
 ---
 
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophie
 <p> <img src="https://github-profile-trophy.vercel.app/?username=thenikhilraj&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /> </p>
 
 ---
