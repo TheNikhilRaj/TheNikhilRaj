@@ -23,7 +23,7 @@ I’m a **B.Tech CSE student** with a passion for **frontend development** and *
   "frontend": ["HTML5", "CSS3","Tailwind CSS", "JavaScript", "ReactJs", "Framer"],
   "backend": ["C", "C++", "NodeJS", "ExpressJs"],
   "database": ["MySQL", "MongoDB"],
-  "design-tools": ["Figma", "Canva"]
+  "design-tools": ["Figma"]
   "developer-tools": ["VS-Code", "Postman", "Vercel", "Netlify"]
 }
 ```
