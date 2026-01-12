@@ -2,7 +2,7 @@
 
 <h1 align = "center">
  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&random=false&width=280&lines=Hi+there+.+I'm+Nikhil+!+👋🏻)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&random=false&width=280&lines=Hey+there+.+I'm+Nikhil+!)
 
 <img src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width="150" />  
 </h1>
